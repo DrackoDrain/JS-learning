@@ -1,0 +1,3 @@
+getSelection
+dfsj
+addEventListener
