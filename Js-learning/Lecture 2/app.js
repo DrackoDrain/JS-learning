@@ -1,3 +1,4 @@
 getSelection
 dfsj
 addEventListener
+AudioDestinationNode
