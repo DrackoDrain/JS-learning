@@ -2,7 +2,7 @@ WebGLRenderingContext
 
 try {
     
-} catch (abc!=0 ) {
-    
+} catch (abc ) {
+
     
 }
