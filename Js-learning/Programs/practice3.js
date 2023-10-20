@@ -21,10 +21,10 @@ function OatsBnaoKhao(){
     console.log("mix it and boil ");
     console.log("EAT");
 }
-setTimeout(function() {
-    console.log("Boil hone ke 15 second ke baad gas off karo");
+// setTimeout(function() {
+//     console.log("Boil hone ke 15 second ke baad gas off karo");
     
-}, 5000);
+// }, 5000);
 
 OatsBnaoKhao();
 // OatsBnaoKhao();z
@@ -33,4 +33,6 @@ function abcd(a,b,c){
     console.log(a,b,c);
 }
 abcd(12,34,67);
+
+
 
