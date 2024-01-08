@@ -1,5 +1,0 @@
-getSelection
-dfsj
-addEventListener
-AudioDestinationNode
-asserts
