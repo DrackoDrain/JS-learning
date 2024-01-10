@@ -1,4 +1,4 @@
-// Create  a game where you start with any random game number. Ask the user to keep guessing the game number until the user enters correct values.
+// Create a game where you start with any random game number. Ask the user to keep guessing the game number until the user enters correct values.
 
 let gameNum = 25;
 let userNum = prompt("Guess the Game Number");
