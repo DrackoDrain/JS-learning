@@ -1,3 +1,5 @@
+// String
+
 function countVowel(str){
     let count = 0;
 
