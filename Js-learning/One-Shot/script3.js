@@ -1,5 +1,5 @@
 let divs = document.querySelectorAll(".box");
-console.dir(divs.innerTEXT);
+console.dir(divs);
 
 // console.dir(abc);
 
