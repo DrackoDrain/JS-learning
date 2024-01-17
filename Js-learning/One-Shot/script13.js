@@ -8,6 +8,7 @@ function asyncFunc1(){
 }
 
 
+
 function asyncFunc2(){
     return new Promise ((resolve,reject)=>{
         setTimeout(()=>{
