@@ -7,8 +7,6 @@ function asyncFunc1(){
     });
 }
 
-
-
 function asyncFunc2(){
     return new Promise ((resolve,reject)=>{
         setTimeout(()=>{
@@ -18,6 +16,7 @@ function asyncFunc2(){
     });
 }
 
+// Promise Chain
 console.log("fetching data1..........");
 let p1 = asyncFunc1();
 p1.then((res)=>{
