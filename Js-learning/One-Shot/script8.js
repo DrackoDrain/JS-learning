@@ -17,3 +17,6 @@ const employee ={
 
     }
 }
+
+// Prototype syntax = we can use another objects in out main objects by creating prototype like -> objects.__proto__objects1
+employee.__proto__ = student;
