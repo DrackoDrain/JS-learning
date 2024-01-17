@@ -1,4 +1,4 @@
-function asyncFunc(){
+function asyncFunc1(){
     return new Promise ((resolve,reject)=>{
         setTimeout(()=>{
             console.log("data1");
@@ -8,7 +8,7 @@ function asyncFunc(){
 }
 
 console.log("fetching data1..........");
-let p1 = asyncFunc();
+let p1 = asyncFunc1();
 p1.then((res)=>{
     console.log(res);
 });
