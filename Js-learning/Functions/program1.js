@@ -12,6 +12,7 @@ const myCar = {
 
 };
 
+
 console.log(myCar.make); // Honda
 console.log(myCar.model); // Accord
 console.log(myCar.year); // 1998
